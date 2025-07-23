@@ -1,5 +1,9 @@
 name: deploy
 
+permissions:
+  contents: write      # allows pushing commits
+  pages: write         # if you’re also using the pages AP
+  
 on:
   push:
     branches:
