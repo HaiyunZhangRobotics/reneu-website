@@ -16,9 +16,9 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem "sass-embedded", "< 1.54", ">= 1.50"
-    gem "nokogiri", "< 1.13"
-    gem "ffi", "< 1.15"
+    gem "sass-embedded"
+    gem "nokogiri"
+    gem "ffi"
 end
 group :other_plugins do
     gem 'httparty'
