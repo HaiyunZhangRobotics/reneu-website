@@ -152,6 +152,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 collections:
+  lab_members:
+    output: true
+    permalink: /lab/:name/
   news:
     defaults:
       layout: post

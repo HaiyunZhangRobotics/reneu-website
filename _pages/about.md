@@ -6,18 +6,23 @@ permalink: /
 
 profile:
   align: right
-  image: lab_picture.jpg
+  image: reneu-robotics-lab.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>2317 Speedway</p>
+    <p>2.304 & 2.306, Anna Hiss Gymnasium,</p>
     <p>Austin, Texas 78712</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Welcome to our lab website! We are developing innovative robotic devices to improve the quality of life and rehabilitation of those surviving a disability.
 
-RobIn Lab is directed by [Roberto Martín-Martín](https://robertomartinmartin.com/), and is part of the University of Texas at Austin, Department of Computer Science, UTAI Lab and Texas Robotics.
+The Lab is part of the Mechanical Engineering Department at The University of Texas at Austin. We are also associated with the [Texas Robotics](https://robotics.utexas.edu/) consortium located in the Anna Hiss Gymnasium ([AHG](https://utdirect.utexas.edu/apps/campus/buildings/nlogon/maps/UTM/AHG/)).
+
+2.304 & 2.306, Anna Hiss Gymnasium, Austin, Texas 78712
+
+<!-- RobIn Lab is directed by [Roberto Martín-Martín](https://robertomartinmartin.com/), and is part of the University of Texas at Austin, Department of Computer Science, UTAI Lab and Texas Robotics.
 
 The research in RobIn explores at the intersection of <u>robotics</u>, <u>computer vision</u> and <u>machine learning</u>, with an emphasis on creating robotic solutions that accomplish <u>interaction-rich</u> tasks in the real world. Our research revolves around the question: what are the mechanisms that enable *physically intelligent behavior* in embodied agents? Our hypothesis is that intelligence is not a purely computational process, but an interplay between perceiving, reasoning, learning and <u>interacting physically</u> with the world.
 
@@ -27,4 +32,4 @@ We are always looking for outstanding new members and collaborators for RobIn. P
 
 [//]: # Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-[//]: # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[//]: # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
